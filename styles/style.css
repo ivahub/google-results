@@ -140,3 +140,8 @@ th {
 .t2 td a {
     font-size: 13px;
 }
+
+.timages img {
+    width: 100%;
+    margin: 0;
+}
